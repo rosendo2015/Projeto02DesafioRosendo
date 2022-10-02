@@ -1,4 +1,4 @@
-# Desafio: Corrigindo bugs (02)
+# Desafio Intermediário: Corrigindo bugs (02)
 
 ![preview](./github/preview.jpg)
 
